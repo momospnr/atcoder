@@ -48,9 +48,8 @@
       "presentation": {
         "reveal": "always",
         "focus": true,
-        "panel": "shared"
-      },
-      "problemMatcher": []
+        "panel": "shared",
+      }
     },
     {
       "label": "SubmitCode",
@@ -59,9 +58,8 @@
       "presentation": {
         "reveal": "always",
         "focus": true,
-        "panel": "shared"
-      },
-      "problemMatcher": []
-    }
+        "panel": "shared",
+      }
+    },
   ]
 }
